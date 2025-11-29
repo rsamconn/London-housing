@@ -4,6 +4,8 @@ Applying some simple ML models while learning about housing data in London.
 ## To do
 1. Choose a dateset from [Kaggle](https://www.kaggle.com/datasets?search=london+hous)
 2. EDA
+3. Initial ML analysis - test some KNNs for fun
+4. Main ML analysis - find the best regression model and optimize it
 
 ## Goals
 Learn about housing data:

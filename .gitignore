@@ -1,6 +1,11 @@
 # For MacOS
 .DS_Store
 
+# For plots
+*.png
+*.jpg
+*.jpeg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
